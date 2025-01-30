@@ -1,3 +1,3 @@
 FROM httpd:latest
-COPY index.html /home/index.html
+COPY index.html index.html
 EXPOSE 80
